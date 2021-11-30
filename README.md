@@ -1,5 +1,5 @@
 # Q20-Tokyo-Qubit-Routing-Problem
-NTHU CS independent study project
+NTHU CS undergraduate research
 
 ## Introduction
 Solving the coupling constraint of CNOT gate in quantum circuits. 
