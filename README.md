@@ -7,8 +7,8 @@ The routing problem is composed of two main parts which are generating initial m
 generating SWAP gates to insert into each time step while the circuit is executing.
 
 ## Features
-* Using **Simulated Annealing (SA)** method to generate initial mapping
-* Using a **Heuristic method** to evaluate the cost and choose SWAP gates
+* Using **Simulated Annealing (SA)** method to generate initial mapping.
+* Using a **Heuristic method** to evaluate the cost and choose SWAP gates.
 
 ## How to start 
 1. Copy the quantum circuit data into `circuit.txt`
@@ -17,4 +17,4 @@ generating SWAP gates to insert into each time step while the circuit is executi
 
 ## Ideas to improve
 1. using reinforcement learning method (Deep Q-Learning) to find SWAP gates instead
-of using Heuristic method
+of using Heuristic method.
