@@ -1,4 +1,4 @@
-# Qubit-Routing-Problem-based-on-IBM-Q20-Tokyo-Architecture
+# Q20-Tokyo-Qubit-Routing-Problem
 NTHU CS undergraduate research
 
 ## Introduction
