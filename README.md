@@ -15,6 +15,13 @@ generating SWAP gates to insert into each time step while the circuit is executi
 2. Run :  `python3 quantum_1027.py`
 3. The initial mapping result and the chosen swap gates will directly print on the screen. 
 
+## Result
+* Initial Mapping
+* Time(s)
+* Gate added (gadd)
+* Depth
+![image](https://user-images.githubusercontent.com/18658857/144086272-e55c3ff0-ec7e-462c-90db-522f381a3963.png)
+
 ## Ideas to improve
 1. using reinforcement learning method (Deep Q-Learning) to find SWAP gates instead
 of using Heuristic method.
